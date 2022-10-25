@@ -12,23 +12,23 @@
         "imageUrl":"https://colorlib.com/wp/wp-content/uploads/sites/2/creative-css3-tutorials.jpg",
     },
     {
-        "id": "3",
+        "id": "03",
         "name": "JavaScript"
     },
     {
-        "id": "4",
+        "id": "04",
         "name":"React"
     },
     {
-        "id": "5",
+        "id": "05",
         "name":"Vue"
     },
     {
-        "id":"6",
+        "id":"06",
         "name":"Node JS"
-    }
+    },
     {
-        "id":"7",
+        "id":"07",
         "name":"Mongo DB"
     }
 ]

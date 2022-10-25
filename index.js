@@ -1,15 +1,14 @@
 const express = require('express');
 const cors = require('cors');
-const { application } = require('express');
 const app = express();
 
 // 
 app.use(cors())
 
-const catagories = require('./Data/categoris.json')
+const courses = require('./Data/serverdata.json')
 
-app.get('/catagories',(req,res)=>{
-    res.send(catagories)
+app.get('/',(req,res)=>{
+    res.send(courses)
 })
 
 const port = 5000;
