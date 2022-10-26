@@ -4,10 +4,15 @@
         "name": "HTML",
         "header":"Complete HTML Course",
         "imageUrl":"https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2018/11/what-is-html-3.jpg",
-        "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript. ",
+        "details": "While many guides on the internet attempt to teach HTML using a lot of mind-boggling theory, this tutorial will instead focus on giving you the practical skills to build your first site. The aim is to show you how to create your first web page without spending the entire tutorial focusing too much on the why .By the end of this tutorial, you will have the know-how to create a basic website and we hope that this will inspire you to delve further into the world of HTML using our follow-on guides.",
         "instructor":"Eduraca",
         "lesson": "8",
-        "time": "4.5"
+        "time": "4.5",
+        "feature":[
+            "Basic of HTML.",
+            "HTML Advanced concepts.",
+            "How HTML works."
+        ]
     },
     {
         "id": "02",
@@ -17,7 +22,12 @@
         "details":"Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
         "lesson": "8",
         "instructor":"Eduraca",
-        "time": "4.5"
+        "time": "4.5",
+        "feature":[
+            "Basic of HTML.",
+            "HTML Advanced concepts.",
+            "How HTML works."
+        ]
     },
     {
         "id": "03",
@@ -27,6 +37,11 @@
         "details":"JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
         "lesson": "8",
         "instructor":"Eduraca",
-        "time": "4.5"
+        "time": "4.5",
+        "feature":[
+            "Basic of HTML.",
+            "HTML Advanced concepts.",
+            "How HTML works."
+        ]
     }
 ]
