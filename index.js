@@ -11,9 +11,9 @@ const coursedetails = require('./Data/courseDetails.json')
 app.get('/',(req,res)=>{
     res.send(courses)
 })
-app.get('/coursedetails/:name',(req,res)=>{
-    const name = req.params.name
-    const seleccourse = coursedetails.find(course => course.name === name)
+app.get('/coursedetails/:id',(req,res)=>{
+    const id = req.params.id
+    const seleccourse = coursedetails.find(course => course.id === id)
     res.send(seleccourse)
 
 })
