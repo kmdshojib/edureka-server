@@ -4,13 +4,12 @@
 This is a server site for an educational website called Edureka.
 
 
-
-
-
 ## Tech Stack
 
-
-**Server:** Node, Express, Cors
+**Server:**
+-Node
+-Express,
+-Cors
 
 ## Run is project
 
